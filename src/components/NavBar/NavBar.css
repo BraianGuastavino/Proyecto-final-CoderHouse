@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap");
+
+.header {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 5px;
+  background-image: url(./images/Black_Concrete.webp);
+  
+}
+
+.header img {
+  width: 300px;
+}
+
+.container-menu{
+  display: flex;
+  justify-content: space-evenly;
+  gap: 30px;
+}
+
+.header .nav-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  gap: 30px;
+}
+
+.nav-bar li {
+  list-style: none;
+}
+
+.nav-bar li a {
+  text-decoration: none;
+  color: #ffffff;
+  font-family: "Noto Sans", sans-serif;
+}
+
+.nav-bar li a:hover {
+  color: #a0e080;
+}
+
+.icon-cart{
+  color: #ffffff;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.icon-cart:hover{
+  color: #a0e080;
+}
+
+.icon-cart .number{
+  color: #ffffff;
+  position: absolute;
+  background-color: #a0e080;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 20px;
+  bottom: 18px;
+  left: 18px;
+}
+
+
+
+
+
