@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "image": "http://dummyimage.com/250x350.png/ff4444/ffffff",
+    "plata": "$5.28",
+    "producto": "Espada de diamante",
+    "categoria": "Armas",
+    "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id tempora harum praesentium explicabo, consectetur. Libero quasi modi architecto?"
+  },
+  {
+    "id": 2,
+    "image": "http://dummyimage.com/250x350.png/dddddd/000000",
+    "plata": "$6.62",
+    "producto": "Pico de diamante",
+    "categoria": "Herramientas",
+    "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id tempora harum praesentium explicabo, consectetur. Libero quasi modi architecto?"
+  },
+  {
+    "id": 3,
+    "image": "http://dummyimage.com/250x350.png/ff4444/ffffff",
+    "plata": "$6.33",
+    "producto": "Hacha de diamante",
+    "categoria": "Herramientas",
+    "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id tempora harum praesentium explicabo, consectetur. Libero quasi modi architecto?"
+  },
+  {
+    "id": 4,
+    "image": "http://dummyimage.com/250x350.png/cc0000/ffffff",
+    "plata": "$2.15",
+    "producto": "Pala de diamante",
+    "categoria": "Herramientas",
+    "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id tempora harum praesentium explicabo, consectetur. Libero quasi modi architecto?"
+  },
+  {
+    "id": 5,
+    "image": "http://dummyimage.com/250x350.png/cc0000/ffffff",
+    "plata": "$5.79",
+    "producto": "Arco",
+    "categoria": "Armas",
+    "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id tempora harum praesentium explicabo, consectetur. Libero quasi modi architecto?"
+  },
+  {
+    "id": 6,
+    "image": "http://dummyimage.com/250x350.png/dddddd/000000",
+    "plata": "$5.02",
+    "producto": "Escudo",
+    "categoria": "Armas",
+    "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id tempora harum praesentium explicabo, consectetur. Libero quasi modi architecto?"
+  },
+  {
+    "id": 7,
+    "image": "http://dummyimage.com/250x350.png/cc0000/ffffff",
+    "plata": "$2.04",
+    "producto": "Diamante",
+    "categoria": "Minerales",
+    "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id tempora harum praesentium explicabo, consectetur. Libero quasi modi architecto?"
+  },
+  {
+    "id": 8,
+    "image": "http://dummyimage.com/250x350.png/ff4444/ffffff",
+    "plata": "$4.60",
+    "producto": "Lingote de oro",
+    "categoria": "Minerales",
+    "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id tempora harum praesentium explicabo, consectetur. Libero quasi modi architecto?"
+  },
+  {
+    "id": 9,
+    "image": "http://dummyimage.com/250x350.png/ff4444/ffffff",
+    "plata": "$1.04",
+    "producto": "Lingote de plata",
+    "categoria": "Minerales",
+    "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id tempora harum praesentium explicabo, consectetur. Libero quasi modi architecto?"
+  },
+  {
+    "id": 10,
+    "image": "http://dummyimage.com/250x350.png/cc0000/ffffff",
+    "plata": "$8.06",
+    "producto": "Manzana dorada",
+    "categoria": "Objetos",
+    "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id tempora harum praesentium explicabo, consectetur. Libero quasi modi architecto?"
+  },
+  {
+    "id": 11,
+    "image": "http://dummyimage.com/250x350.png/cc0000/ffffff",
+    "plata": "$6.03",
+    "producto": "Azada",
+    "categoria": "Herramientas",
+    "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id tempora harum praesentium explicabo, consectetur. Libero quasi modi architecto?"
+  },
+  {
+    "id": 12,
+    "image": "http://dummyimage.com/250x350.png/cc0000/ffffff",
+    "plata": "$1.81",
+    "producto": "Tridente",
+    "categoria": "Armas",
+    "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id tempora harum praesentium explicabo, consectetur. Libero quasi modi architecto?"
+  }
+]
