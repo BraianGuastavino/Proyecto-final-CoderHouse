@@ -1,0 +1,108 @@
+.container-general {
+    padding: 40px 10px 10px 10px;
+    margin-bottom: 20px;
+  }
+  
+  .container-itemDetail {
+    background-color: #DBE2EF;
+    display: flex;
+    flex-direction: column; /* Cambio la dirección de flexión para tamaños menores a 768px */
+    align-items: center; /* Centrar en tamaños menores */
+    justify-content: center;
+    padding: 20px;
+    gap: 20px;
+    border-radius: 5px;
+  }
+  
+  .producto-detalle img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  
+  .detalle-info {
+    text-align: left;
+    width: 100%; /* Ancho completo en tamaños menores */
+  }
+  
+  .prod-name {
+    font-size: 24px;
+    margin-bottom: 5px;
+  }
+  
+  .prod-descripcion {
+    margin: 5px 0;
+    width: 90%;
+    text-align: justify;
+  }
+  
+  .prod-categoria,
+  .prod-precio {
+    margin: 5px 0;
+    font-weight: bold;
+  }
+
+.product-details {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.item-count {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.count-btn {
+    padding: 5px 10px;
+    background-color: #3483fa;
+    color: #DBE2EF;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.count-btn:hover {
+    background-color: #112D4E;
+}
+
+.count {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.add-to-cart {
+    margin-left: 15px;
+    /* Añade espacio a la izquierda */
+    padding: 10px 20px;
+    background-color: #3483fa;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.add-to-cart:hover {
+    background-color: #112D4E;
+}
+
+@media screen and (min-width: 768px) {
+    .container-itemDetail {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: flex-start;
+    }
+
+    .producto-detalle {
+        width: 40%;
+        margin: 0;
+    }
+
+    .detalle-info {
+        width: 55%;
+    }
+}
